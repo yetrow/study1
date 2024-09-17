@@ -56,6 +56,9 @@ int main() {
 		printf("%d年%d月%d日是一年中的第%d天", year, month, day,sum);
 
 
+		printf("hello world");
+
+
 
 	return 0;
 }
